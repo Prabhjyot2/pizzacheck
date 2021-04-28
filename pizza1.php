@@ -1,1 +1,5 @@
-<?php header( 'Location: /pizza.html' ) ;  ?>
+<?php
+
+include_once("pizza.html");
+
+?>
